@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aravindhan-24
 - 👀 I’m interested in Blockchain 
 - 🌱 I’m currently learning UI/UX
-- 💞️ I’m looking to collaborate on LinkedIn
+- 💞️ I’m looking to collaborate on LinkedIn https://www.linkedin.com/in/laravindhan24/
 - 📫 How to reach me aravindhanlakshmanan24@gmail.com
 
 <!---
