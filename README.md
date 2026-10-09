@@ -19,7 +19,7 @@ frameworks.
   limits via Linux TC qdiscs and iptables
 - **OCI Artifact Tooling** — Go CLI (Cobra + gRPC) for building and pushing
   OCI-compliant artifacts to distributed registry backends
-- **Image Scanning Pipeline** — Syft + Grype scanning 500–2,000 images in
+- **Image Scanning Pipeline** — Syft + Grype images in
   under 2 minutes
 
 ## Personal Projects
