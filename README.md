@@ -1,4 +1,4 @@
-# Hi, I'm Aravindhan L 👋
+# Hi, I'm Aravindhan L
 
 Software Engineer at Zoho Corporation, working on container infrastructure,
 distributed systems, and backend platforms.
@@ -37,13 +37,18 @@ frameworks.
 I write about container internals and Linux systems on Medium.
 Recent articles:
 
-- [Building Containers from Scratch with Linux](https://medium.com/@aravindhan24/building-containers-from-scratch-with-linux-712c4679c386)
-- [From Registry to Running Container](https://medium.com/@aravindhan24/from-registry-to-running-container-f5a5d3ae45bb)
-- [How Docker Networking Actually Works: CNM and Remote Drivers](https://medium.com/@aravindhan24/how-docker-networking-actually-works-a-deep-dive-into-cnm-and-remote-drivers-b6d07716173f)
-- [A Deep Dive into Docker Custom Volume Driver Plugins](https://medium.com/@aravindhan24/a-deep-dive-into-docker-custom-volume-driver-plugins-9c0dedb09b00)
-- [IPAM Driver: Delegating IP Address Management Away from Docker](https://medium.com/@aravindhan24/ipam-driver-delegating-ip-address-management-away-from-docker-919881fa485d)
-- [Securing Linux Containers](https://medium.com/@aravindhan24/securing-linux-containers-052ccc69be2a)
-- [Persisting and Packaging a Container for Distribution](https://medium.com/@aravindhan24/persisting-and-packaging-a-container-for-distribution-a66c660367de)
+1. [Docker Deep Dive](https://medium.com/@aravindhan24/docker-deep-dive)
+2. [Monitoring Containers from Cgroups to Grafana](https://medium.com/@aravindhan24/monitoring-containers-from-cgroups-to-grafana)
+3. [K6: Stress Testing a Docker Registry](https://medium.com/@aravindhan24/k6-stress-testing-a-docker-registry)
+4. [Securing the Container Supply Chain: SBOMs, Vulnerabilities & Licenses](https://medium.com/@aravindhan24/securing-the-container-supply-chain-sboms-vulnerabilities-licenses)
+5. [Ship Your Container to a Registry](https://medium.com/@aravindhan24/ship-your-container-to-a-registry)
+6. [Persisting and Packaging a Container for Distribution](https://medium.com/@aravindhan24/persisting-and-packaging-a-container-for-distribution-a66c660367de)
+7. [IPAM Driver: Delegating IP Address Management Away from Docker](https://medium.com/@aravindhan24/ipam-driver-delegating-ip-address-management-away-from-docker-919881fa485d)
+8. [A Deep Dive into Docker Custom Volume Driver Plugins](https://medium.com/@aravindhan24/a-deep-dive-into-docker-custom-volume-driver-plugins-9c0dedb09b00)
+9. [How Docker Networking Actually Works: A Deep Dive into CNM and Remote Drivers](https://medium.com/@aravindhan24/how-docker-networking-actually-works-a-deep-dive-into-cnm-and-remote-drivers-b6d07716173f)
+10. [Securing Linux Containers](https://medium.com/@aravindhan24/securing-linux-containers-052ccc69be2a)
+11. [From Registry to Running Container](https://medium.com/@aravindhan24/from-registry-to-running-container-f5a5d3ae45bb)
+12. [Building Containers from Scratch with Linux](https://medium.com/@aravindhan24/building-containers-from-scratch-with-linux-712c4679c386)
 
 ## Stack
 
